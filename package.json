@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "*",
+    "moment": "*",
+    "colors": "*",
+    "mssql": "3.3.*"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"id": "bond",
+	"name": "Bond",
+	"symbol": "BOND",
+	"rank": "753",
+	"price_usd": null,
+	"price_btc": null,
+	"24h_volume_usd": null,
+	"market_cap_usd": null,
+	"available_supply": "892.0",
+	"total_supply": "892.0",
+	"percent_change_1h": null,
+	"percent_change_24h": null,
+	"percent_change_7d": null,
+	"last_updated": null
+}
